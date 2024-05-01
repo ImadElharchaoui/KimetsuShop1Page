@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Emizen';
+    src: url('/fonts/Emizen.ttf');
+}
